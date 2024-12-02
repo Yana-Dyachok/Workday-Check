@@ -1,2 +1,1 @@
-# workday-check
-find out if I'm working  or worked that day
+https://yana-dyachok.github.io/workday-check/
